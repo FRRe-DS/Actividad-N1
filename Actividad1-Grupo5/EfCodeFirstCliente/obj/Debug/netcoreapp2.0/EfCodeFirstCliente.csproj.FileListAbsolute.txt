@@ -1,0 +1,11 @@
+C:\Users\edgardo\source\repos\EfCodeFirstCliente\EfCodeFirstCliente\bin\Debug\netcoreapp2.0\EfCodeFirstCliente.deps.json
+C:\Users\edgardo\source\repos\EfCodeFirstCliente\EfCodeFirstCliente\bin\Debug\netcoreapp2.0\EfCodeFirstCliente.runtimeconfig.json
+C:\Users\edgardo\source\repos\EfCodeFirstCliente\EfCodeFirstCliente\bin\Debug\netcoreapp2.0\EfCodeFirstCliente.runtimeconfig.dev.json
+C:\Users\edgardo\source\repos\EfCodeFirstCliente\EfCodeFirstCliente\bin\Debug\netcoreapp2.0\EfCodeFirstCliente.dll
+C:\Users\edgardo\source\repos\EfCodeFirstCliente\EfCodeFirstCliente\bin\Debug\netcoreapp2.0\EfCodeFirstCliente.pdb
+C:\Users\edgardo\source\repos\EfCodeFirstCliente\EfCodeFirstCliente\obj\Debug\netcoreapp2.0\EfCodeFirstCliente.csprojAssemblyReference.cache
+C:\Users\edgardo\source\repos\EfCodeFirstCliente\EfCodeFirstCliente\obj\Debug\netcoreapp2.0\EfCodeFirstCliente.csproj.CoreCompileInputs.cache
+C:\Users\edgardo\source\repos\EfCodeFirstCliente\EfCodeFirstCliente\obj\Debug\netcoreapp2.0\EfCodeFirstCliente.AssemblyInfoInputs.cache
+C:\Users\edgardo\source\repos\EfCodeFirstCliente\EfCodeFirstCliente\obj\Debug\netcoreapp2.0\EfCodeFirstCliente.AssemblyInfo.cs
+C:\Users\edgardo\source\repos\EfCodeFirstCliente\EfCodeFirstCliente\obj\Debug\netcoreapp2.0\EfCodeFirstCliente.dll
+C:\Users\edgardo\source\repos\EfCodeFirstCliente\EfCodeFirstCliente\obj\Debug\netcoreapp2.0\EfCodeFirstCliente.pdb
