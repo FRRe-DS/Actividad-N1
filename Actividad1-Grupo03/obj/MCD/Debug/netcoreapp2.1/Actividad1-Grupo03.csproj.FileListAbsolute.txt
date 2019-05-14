@@ -1,0 +1,11 @@
+C:\Users\Programacion\Documents\Cliente-Servidor\Actividad1-Grupo03\bin\MCD\Debug\netcoreapp2.1\Actividad1-Grupo03.deps.json
+C:\Users\Programacion\Documents\Cliente-Servidor\Actividad1-Grupo03\bin\MCD\Debug\netcoreapp2.1\Actividad1-Grupo03.runtimeconfig.json
+C:\Users\Programacion\Documents\Cliente-Servidor\Actividad1-Grupo03\bin\MCD\Debug\netcoreapp2.1\Actividad1-Grupo03.runtimeconfig.dev.json
+C:\Users\Programacion\Documents\Cliente-Servidor\Actividad1-Grupo03\bin\MCD\Debug\netcoreapp2.1\Actividad1-Grupo03.dll
+C:\Users\Programacion\Documents\Cliente-Servidor\Actividad1-Grupo03\bin\MCD\Debug\netcoreapp2.1\Actividad1-Grupo03.pdb
+C:\Users\Programacion\Documents\Cliente-Servidor\Actividad1-Grupo03\obj\MCD\Debug\netcoreapp2.1\Actividad1-Grupo03.csprojAssemblyReference.cache
+C:\Users\Programacion\Documents\Cliente-Servidor\Actividad1-Grupo03\obj\MCD\Debug\netcoreapp2.1\Actividad1-Grupo03.csproj.CoreCompileInputs.cache
+C:\Users\Programacion\Documents\Cliente-Servidor\Actividad1-Grupo03\obj\MCD\Debug\netcoreapp2.1\Actividad1-Grupo03.AssemblyInfoInputs.cache
+C:\Users\Programacion\Documents\Cliente-Servidor\Actividad1-Grupo03\obj\MCD\Debug\netcoreapp2.1\Actividad1-Grupo03.AssemblyInfo.cs
+C:\Users\Programacion\Documents\Cliente-Servidor\Actividad1-Grupo03\obj\MCD\Debug\netcoreapp2.1\Actividad1-Grupo03.dll
+C:\Users\Programacion\Documents\Cliente-Servidor\Actividad1-Grupo03\obj\MCD\Debug\netcoreapp2.1\Actividad1-Grupo03.pdb
